@@ -2,6 +2,10 @@
 
 Each entry lists breaking changes first. Read it before you apply an update to a project deployed from the template.
 
+## 1.38.2-1 (2026-11-16)
+
+- README: Deploy on Railway button linking to the published template . No change to the deployed service.
+
 ## 1.38.2 (2026-11-16)
 
 First release of the template.
