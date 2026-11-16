@@ -4,7 +4,7 @@ Each entry lists breaking changes first. Read it before you apply an update to a
 
 ## 1.38.2-1 (2026-11-16)
 
-- README: Deploy on Railway button linking to the published template . No change to the deployed service.
+- README: Deploy on Railway button linking to the published template docling-1. No change to the deployed service.
 
 ## 1.38.2 (2026-11-16)
 
