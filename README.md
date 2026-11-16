@@ -1,5 +1,7 @@
 # Docling on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/docling-1?utm_medium=integration&utm_source=button&utm_campaign=docling)
+
 A Railway template for [Docling Serve](https://github.com/docling-project/docling-serve), the API and web UI for [Docling](https://github.com/docling-project/docling). It converts PDF, DOCX, PPTX, XLSX, HTML, images and scans into Markdown, JSON, HTML, text or DocTags, with layout analysis, table structure and OCR, for RAG pipelines and LLM tools.
 
 ## What it deploys
